@@ -1,5 +1,3 @@
-
-
 const RenderJokes = () => {
     const jokes = [
         {
